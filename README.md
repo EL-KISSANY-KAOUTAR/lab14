@@ -58,7 +58,7 @@ frida-ps -Uai
 
 Cette commande liste toutes les applications et processus présents sur l'appareil Android connecté.
 
-### Résultat obtenu
+
 
 ![Liste des applications](https://github.com/user-attachments/assets/acbf2790-ddfc-4c31-9633-d0cc2826be1f)
 
