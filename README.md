@@ -129,15 +129,6 @@ Après exécution du bypass, l'application ne détecte plus l'environnement root
 
 ---
 
-# 5. Analyse des résultats
-
-Les différentes méthodes de bypass permettent de contourner les protections implémentées par les applications Android afin de :
-
-- Observer le comportement interne de l'application.
-- Réaliser du reverse engineering dynamique.
-- Tester la robustesse des mécanismes de sécurité.
-- Préparer l'analyse TLS/HTTPS et SSL Pinning.
-
 ---
 
 # Conclusion
