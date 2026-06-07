@@ -40,7 +40,7 @@ Vérifier l'installation :
 adb version
 ```
 
-### Vérification
+### Vérification 
 
 ![ADB Installation](https://github.com/user-attachments/assets/5e7ce59c-227e-4782-9c23-90fcc34791f5)
 
